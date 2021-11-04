@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Radio Show">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3913076430 - Field 336408620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AdvertisingRevenue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RadioShow - Field AdvertisingRevenue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3913076430 - Field 3336060147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AudienceShare</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RadioShow - Field AudienceShare - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3913076430 - Field 4051790786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AverageListeners</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RadioShow - Field AverageListeners - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3913076430 - Field 2733904281 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HostName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RadioShow - Field HostName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3913076430 - Field 3362237571 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HostNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RadioShow - Field HostNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3913076430 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RadioShow - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3913076430 - Field 949215307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RadioShow - Field No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3913076430 - Field 3860013206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RadioShowType</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RadioShow - Field RadioShowType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3913076430 - Field 163927929 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RoyaltyCost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RadioShow - Field RoyaltyCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3913076430 - Field 1389032272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RunTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RadioShow - Field RunTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3860013206 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RadioShowType - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3860013206 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RadioShowType - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3686164626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Radio Show Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RadioShowCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3686164626 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RadioShowCard - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3686164626 - Control 84074407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statistics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RadioShowCard - Control Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3559303060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Radio Show List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RadioShowList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2504861059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Radio Show Types</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RadioShowTypes - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

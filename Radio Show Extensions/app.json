@@ -1,0 +1,33 @@
+{
+  "id": "abfcdb6b-a86b-4d96-958e-62eaf48719fa",
+  "name": "Radio Show Extension",
+  "publisher": "ERP-010",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "features": ["TranslationFile"],
+  "dependencies": [
+    {
+      "id": "5269e15e-a537-4724-988e-e40bf0f50443",
+      "name": "Radio Show",
+      "publisher": "ERP-010",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
