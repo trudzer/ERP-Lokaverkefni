@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="is-IS" original="Radio Show Extension">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 953528289 - Control 2508302584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3686164626">
+          <source>Requirements</source>
+          <target state="">Kröfur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension RadioShowCardExtension - Control Requirements - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3205849823 - Field 3192774016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3993128796">
+          <source>Education Level</source>
+          <target state="">Menntunarstig</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ContactCardExtension - Field Education Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3205849823 - Field 279373430 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3993128796">
+          <source>Work Phone No.</source>
+          <target state="">vinnusími</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ContactCardExtension - Field Work Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3036869359 - Field 1376123475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3913076430">
+          <source>AdsPlannedQuantity</source>
+          <target state="">Auglýsinga magn</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RadioShowTableExtension - Field AdsPlannedQuantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3036869359 - Field 3837516702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3913076430">
+          <source>EndTime</source>
+          <target state="Lokatími">Lokatími</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RadioShowTableExtension - Field EndTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3036869359 - Field 3964856256 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3913076430">
+          <source>Frequency</source>
+          <target state="">Tíðni</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RadioShowTableExtension - Field Frequency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3036869359 - Field 3444289979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3913076430">
+          <source>NewsDuration</source>
+          <target state="">Frétta tími</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RadioShowTableExtension - Field NewsDuration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3036869359 - Field 1617110322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3913076430">
+          <source>NewsRequired</source>
+          <target state="">Fréttakröfur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RadioShowTableExtension - Field NewsRequired - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3036869359 - Field 3833301175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3913076430">
+          <source>PSAplannedQuantity</source>
+          <target state="">opinber þjónustutilkynningar magn</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RadioShowTableExtension - Field PSAplannedQuantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3036869359 - Field 1360126952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3913076430">
+          <source>RadioShowDuration</source>
+          <target state="">Lengd útvarðsþátts</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RadioShowTableExtension - Field RadioShowDuration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3036869359 - Field 560965169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3913076430">
+          <source>SportsDuration</source>
+          <target state="">Íþrótta tími</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RadioShowTableExtension - Field SportsDuration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3036869359 - Field 3640223884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3913076430">
+          <source>SportsRequired</source>
+          <target state="">Íþróttakröfur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RadioShowTableExtension - Field SportsRequired - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3036869359 - Field 530928583 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3913076430">
+          <source>StartTime</source>
+          <target state="">Byrjunartími</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RadioShowTableExtension - Field StartTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3036869359 - Field 2147188274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3913076430">
+          <source>WeatherDuration</source>
+          <target state="">Veður tími</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RadioShowTableExtension - Field WeatherDuration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3036869359 - Field 1095050843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3913076430">
+          <source>WeatherRequired</source>
+          <target state="">Veðurkröfur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RadioShowTableExtension - Field WeatherRequired - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
